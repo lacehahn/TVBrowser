@@ -107,8 +107,12 @@ fun TVBrowserScreen(
             if (viewModel.isOverlayVisible) {
                 viewModel.selectFocusedBookmark()
             } else {
-                // 进入页面浏览模式, disabled the function currently
-                //viewModel.enterPageBrowsingMode()
+                // 只有当前书签没有禁用浏览器模式时才进入页面浏览模式
+                if (!viewModel.currentBookmark.disableBrowserMode) {
+                    viewModel.enterPageBrowsingMode()
+                } else {
+                    viewModel.toggleOverlay()
+                }
             }
         },
         onBackPressed = {

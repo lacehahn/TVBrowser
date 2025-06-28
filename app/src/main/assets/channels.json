@@ -4,109 +4,127 @@
       "title": "CCTV 1",
       "url": "https://tv.cctv.com/live/cctv1/?spm=C28340.PotG4tICJnBr.ExidtyEJcS5K.1",
       "description": "综合频道",
-      "plugin": "cctv_cleaner"
+      "plugin": "cctv_cleaner",
+      "disableBrowserMode": true
     },
     {
       "title": "CCTV 2",
       "url": "https://tv.cctv.com/live/cctv2/?spm=C28340.PoakR0uYBKgp.ExidtyEJcS5K.13",
       "description": "财经频道",
-      "plugin": "cctv_cleaner"
+      "plugin": "cctv_cleaner",
+      "disableBrowserMode": true
     },
     {
       "title": "CCTV 3",
       "url": "https://tv.cctv.com/live/cctv3/?spm=C28340.PotG4tICJnBr.ExidtyEJcS5K.14",
       "description": "综艺频道",
-      "plugin": "cctv_cleaner"
+      "plugin": "cctv_cleaner",
+      "disableBrowserMode": true
     },
     {
       "title": "CCTV 4",
       "url": "https://tv.cctv.com/live/cctv4/?spm=C28340.PKIUk5AmVMT8.ExidtyEJcS5K.15",
       "description": "中文国际频道",
-      "plugin": "cctv_cleaner"
+      "plugin": "cctv_cleaner",
+      "disableBrowserMode": true
     },
     {
       "title": "CCTV 5",
       "url": "https://tv.cctv.com/live/cctv5/?spm=C28340.PR1Y0pj2YGeB.ExidtyEJcS5K.5",
       "description": "体育频道",
-      "plugin": "cctv_cleaner"
+      "plugin": "cctv_cleaner",
+      "disableBrowserMode": true
     },
     {
       "title": "CCTV 5+",
       "url": "https://tv.cctv.com/live/cctv5plus/?spm=C28340.P8YyNiekrjS1.ExidtyEJcS5K.17",
       "description": "体育赛事频道",
-      "plugin": "cctv_cleaner"
+      "plugin": "cctv_cleaner",
+      "disableBrowserMode": true
     },
     {
       "title": "CCTV 6",
       "url": "https://tv.cctv.com/live/cctv6/?spm=C28340.P8YyNiekrjS1.ExidtyEJcS5K.18",
       "description": "电影频道",
-      "plugin": "cctv_cleaner"
+      "plugin": "cctv_cleaner",
+      "disableBrowserMode": true
     },
     {
       "title": "CCTV 7",
       "url": "https://tv.cctv.com/live/cctv7/?spm=C28340.PTEkg7XmjUgN.ExidtyEJcS5K.19",
       "description": "国防军事频道",
-      "plugin": "cctv_cleaner"
+      "plugin": "cctv_cleaner",
+      "disableBrowserMode": true
     },
     {
       "title": "CCTV 8",
       "url": "https://tv.cctv.com/live/cctv8/?spm=C28340.PkZipr7VceJI.ExidtyEJcS5K.20",
       "description": "电视剧频道",
-      "plugin": "cctv_cleaner"
+      "plugin": "cctv_cleaner",
+      "disableBrowserMode": true
     },
     {
       "title": "CCTV 9",
       "url": "https://tv.cctv.com/live/cctvjilu/?spm=C28340.PQEMFbwOfB3S.ExidtyEJcS5K.21",
       "description": "纪录频道",
-      "plugin": "cctv_cleaner"
+      "plugin": "cctv_cleaner",
+      "disableBrowserMode": true
     },
     {
       "title": "CCTV 10",
       "url": "https://tv.cctv.com/live/cctv10/?spm=C28340.PpiaYs0TLjHK.ExidtyEJcS5K.22",
       "description": "科教频道",
-      "plugin": "cctv_cleaner"
+      "plugin": "cctv_cleaner",
+      "disableBrowserMode": true
     },
     {
       "title": "CCTV 11",
       "url": "https://tv.cctv.com/live/cctv11/?spm=C28340.PMvpCBX0AtTu.ExidtyEJcS5K.23",
       "description": "戏曲频道",
-      "plugin": "cctv_cleaner"
+      "plugin": "cctv_cleaner",
+      "disableBrowserMode": true
     },
     {
       "title": "CCTV 12",
       "url": "https://tv.cctv.com/live/cctv12/?spm=C28340.PrG0h7df8V0a.ExidtyEJcS5K.24",
       "description": "社会与法频道",
-      "plugin": "cctv_cleaner"
+      "plugin": "cctv_cleaner",
+      "disableBrowserMode": true
     },
     {
       "title": "CCTV 13",
       "url": "https://tv.cctv.com/live/cctv13/?spm=C28340.Pi47lDigOTVF.ExidtyEJcS5K.25",
       "description": "新闻频道",
-      "plugin": "cctv_cleaner"
+      "plugin": "cctv_cleaner",
+      "disableBrowserMode": true
     },
     {
       "title": "CCTV 14",
       "url": "https://tv.cctv.com/live/cctvchild/?spm=C28340.POZbQEOQYmoL.ExidtyEJcS5K.26",
       "description": "少儿频道",
-      "plugin": "cctv_cleaner"
+      "plugin": "cctv_cleaner",
+      "disableBrowserMode": true
     },
     {
       "title": "CCTV 15",
       "url": "https://tv.cctv.com/live/cctv15/?spm=C28340.PlzJnpThRAqb.ExidtyEJcS5K.27",
       "description": "音乐频道",
-      "plugin": "cctv_cleaner"
+      "plugin": "cctv_cleaner",
+      "disableBrowserMode": true
     },
     {
       "title": "CCTV 16",
       "url": "https://tv.cctv.com/live/cctv16/?spm=C28340.PQ1NrVkX5nqY.ExidtyEJcS5K.28",
       "description": "奥林匹克频道",
-      "plugin": "cctv_cleaner"
+      "plugin": "cctv_cleaner",
+      "disableBrowserMode": true
     },
     {
       "title": "CCTV 17",
       "url": "https://tv.cctv.com/live/cctv17/?spm=C28340.PKJ5WKItuH8E.ExidtyEJcS5K.29",
       "description": "农业农村频道",
-      "plugin": "cctv_cleaner"
+      "plugin": "cctv_cleaner",
+      "disableBrowserMode": true
     }
   ]
 } 

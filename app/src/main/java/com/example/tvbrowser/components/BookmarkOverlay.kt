@@ -57,7 +57,7 @@ fun BookmarkOverlay(
         ) {
             // 标题
             Text(
-                text = "📺 频道列表",
+                text = "频道列表",
                 fontSize = 40.sp,
                 fontWeight = FontWeight.Bold,
                 color = Color(0xFF4CAF50),
@@ -89,14 +89,6 @@ fun BookmarkOverlay(
                 }
             }
             
-            // 操作提示
-            Text(
-                text = "按 Back 返回浏览 | 按 Enter 选择频道",
-                fontSize = 20.sp,
-                color = Color(0xFFCCCCCC),
-                textAlign = TextAlign.Center,
-                modifier = Modifier.padding(vertical = 24.dp)
-            )
         }
     }
 } 
