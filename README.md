@@ -271,8 +271,7 @@ A: 在`plugins/`目录添加JavaScript文件，并在`plugins.json`中注册。
 ## 📧 联系方式
 
 - **项目主页**: [GitHub Repository](https://github.com/yourusername/TVBrowser)
-- **问题反馈**: [GitHub Issues](https://github.com/yourusername/TVBrowser/issues)
-- **功能建议**: [GitHub Discussions](https://github.com/yourusername/TVBrowser/discussions)
+- **问题反馈**: [GitHub Issues](https://github.com/lacehahn/TVBrowser/issues)
 
 ---
 
