@@ -1,0 +1,12 @@
+{
+  "plugins": {
+    "cctv_cleaner": {
+      "name": "CCTV页面清理器",
+      "description": "移除CCTV网站的导航栏和顶部横幅，提供更好的观看体验",
+      "version": "1.0.0",
+      "script": "cctv_cleaner.js",
+      "runOn": "onPageFinished",
+      "enabled": true
+    }
+  }
+} 
